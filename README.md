@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Nakul-krishna-R  
+- 👀 I’m interested in data science, and AI applications.  
+- 🌱 I’m currently learning advanced modeling techniques using Python, VISSIM, and machine learning frameworks  
+- 💞️ I’m looking to collaborate on open-source data science projects, especially those related to infrastructure, transport, and climate  
+- 📫 How to reach me: nakul.krishna.r@example.com (replace with your real email)  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I started in physics, but now I simulate traffic jams for fun (and science!)
