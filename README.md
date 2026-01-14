@@ -1,7 +1,7 @@
-## Hi, I’m Nakul 👋  
+# Hi, I’m Nakul 👋  
 **MSc Data & Computational Science | Data Analytics & Machine Learning**
 
-I’m a data science graduate with a strong foundation in data analysis, statistical modelling, and applied machine learning. I enjoy working on real-world datasets and turning raw data into meaningful insights that support decision-making.
+## I’m a data science graduate with a strong foundation in data analysis, statistical modelling, and applied machine learning. I enjoy working on real-world datasets and turning raw data into meaningful insights that support decision-making.
 
 ---
 
