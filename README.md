@@ -6,11 +6,22 @@
 ---
 
 ### 🔧 Skills & Tools
-- **Programming:** Python, R, SQL  
-- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA)  
-- **Machine Learning:** Regression, Classification, Model Evaluation  
-- **Visualization:** Matplotlib, Seaborn  
-- **Other:** Git, Jupyter Notebook  
+
+#### Programming & Querying
+![Python](https://skillicons.dev/icons?i=python)
+![R](https://skillicons.dev/icons?i=r)
+![SQL](https://skillicons.dev/icons?i=mysql)
+
+#### Data Analysis & ML
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![NumPy](https://skillicons.dev/icons?i=numpy)
+![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
+
+#### Visualisation & Tools
+![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
+![Git](https://skillicons.dev/icons?i=git)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
+
 
 ---
 
