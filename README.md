@@ -25,6 +25,7 @@ Data science graduate working on real-world datasets — turning raw data into m
 **[Fraud Detection in Financial Transactions](https://github.com/ACM40960/Fraud-Detection-in-Financial-Transactions)** — *with Mani Jose, UCD School of Mathematics and Statistics*
 Real-time fraud detection on the BankSim dataset (594,643 transactions, ~1.2% fraud rate). Engineered 39 behavioral/temporal features, benchmarked 4 modeling approaches, and deployed the best LightGBM ensemble via a FastAPI scoring endpoint + Streamlit monitoring dashboard.
 - **AUROC 0.9993 | AUPRC 0.9578 | Inference latency < 10ms**
+  
 **[Dublin Rental Market Analysis](https://github.com/Nakul-krishna-R/dublin-rental-analysis)**
 Compared 18 years of official CSO rent data against ~500 live Daft.ie listings (scraped with Playwright) to quantify what new movers actually pay vs. the published average — framed as a relocation-budget tool for HR teams. SQL (window functions, CTEs) + Power BI dashboard.
 - **€2,139 avg rent (2025) | +112% vs. 2011 low | ~21% avg "newcomer premium" over official rates**
