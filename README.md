@@ -1,4 +1,4 @@
-# Hi, I'm Nakul 👋
+# Hi, I'm Nakul 
  
 MSc Data & Computational Science (UCD) | Data Analyst | Applied Machine Learning
  
