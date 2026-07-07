@@ -2,7 +2,7 @@
  
 MSc Data & Computational Science (UCD) | Data Analyst | Applied Machine Learning
  
-Data science graduate working on real-world datasets — turning raw data into models and insights that support decisions. Currently job-hunting in Dublin for data analyst / ML roles.
+Data science graduate working on real-world datasets, turning raw data into models and insights that support decisions. Currently job-hunting in Dublin for data analyst / ML roles.
  
 ![Python](https://skillicons.dev/icons?i=python) ![R](https://skillicons.dev/icons?i=r) ![SQL](https://skillicons.dev/icons?i=postgres) ![Sklearn](https://skillicons.dev/icons?i=sklearn) ![Git](https://skillicons.dev/icons?i=git) ![Jupyter](https://skillicons.dev/icons?i=jupyter)
  
