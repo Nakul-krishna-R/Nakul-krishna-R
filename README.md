@@ -50,7 +50,7 @@ SQL-only exploration of Zepto's product dataset — cleaning, null handling, and
 ### Currently
  
 - 🔭 Open to Data Analyst / Junior ML roles (Dublin)
-- 📚 Learning: [REPLACE — e.g. specific cloud/ML cert in progress]
+- 📚 Learning: PL-300 
 ---
  
 ### Contact
