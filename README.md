@@ -68,8 +68,9 @@ End-to-end ML pipeline on 2,553 SEC 8-K filings. Local LLM (Phi-3 Mini via Ollam
 
 **LLM / Embeddings**
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-4B0082?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
 **Serving and Tooling**
 
